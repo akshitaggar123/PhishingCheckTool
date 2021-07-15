@@ -1,0 +1,8 @@
+cffi>=0.8.6
+six>=1.4.1
+
+[docstest]
+doc8
+readme_renderer>=16.0
+sphinx
+sphinx_rtd_theme
